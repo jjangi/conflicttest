@@ -1,3 +1,3 @@
 # conflicttest
 
-test
+test2
